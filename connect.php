@@ -38,7 +38,8 @@ if (isset($_GET['error'])) {
 
 // Congratulations! You have a valid token. Now fetch your profile
 $user = fetch('GET', '/v1/people/~');
-$send_url = "Result/index2.php?firstName=" .urlencode($user->firstName) ."&lastName=" .urlencode($user->lastName) ."&Headline=" .urlencode($user->headline) ."&email=" .urlencode($user->email-address);
+$userMail = fetch('GET', '/v1/people/~:(email-address)');
+$send_url = "Result/index2.php?firstName=" .urlencode($user->firstName) ."&lastName=" .urlencode($user->lastName) ."&Headline=" .urlencode($user->headline) ."&email=" .urlencode($userMail->emailAddress);
 header("Location: $send_url");
 
 function getAuthorizationCode() {

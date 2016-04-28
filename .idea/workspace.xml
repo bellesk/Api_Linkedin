@@ -25,7 +25,7 @@
       <file leaf-file-name="Home2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Home2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="425">
               <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
               <folding />
             </state>
@@ -35,8 +35,8 @@
       <file leaf-file-name="connect.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="40" column="194" selection-start-line="40" selection-start-column="194" selection-end-line="40" selection-end-column="194" />
+            <state relative-caret-position="323">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,8 +45,8 @@
       <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Result/index2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="829">
-              <caret line="147" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="147" selection-end-column="7" />
+            <state relative-caret-position="625">
+              <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -71,9 +71,9 @@
         <option value="$PROJECT_DIR$/Fetch.php" />
         <option value="$PROJECT_DIR$/Result.php" />
         <option value="$PROJECT_DIR$/Result/index.html" />
-        <option value="$PROJECT_DIR$/Result/index2.php" />
         <option value="$PROJECT_DIR$/Home.html" />
         <option value="$PROJECT_DIR$/Home2.php" />
+        <option value="$PROJECT_DIR$/Result/index2.php" />
         <option value="$PROJECT_DIR$/connect.php" />
       </list>
     </option>
@@ -234,12 +234,12 @@
       <option name="presentableId" value="Default" />
       <updated>1461679243966</updated>
       <workItem from="1461679245221" duration="18464000" />
-      <workItem from="1461778069930" duration="13424000" />
+      <workItem from="1461778069930" duration="14541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31888000" />
+    <option name="totallyTimeSpent" value="33005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -358,14 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Result/index2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="147" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="147" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -376,16 +368,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Home2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="425">
           <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="40" column="194" selection-start-line="40" selection-start-column="194" selection-end-line="40" selection-end-column="194" />
+        <state relative-caret-position="323">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>

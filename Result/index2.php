@@ -67,7 +67,11 @@
             <section>
                 <div class="row">
                     <div class="4u 12u$(mobile)">
-                        <a href="#" class="image fit"><img src="images/pic01.jpg" alt=""></a>
+                        <?php
+                        $headline = $_GET['email'];
+                        $headline = urldecode($headline);
+                        echo ($headline);
+                        ?>
                     </div>
                     <div class="4u 12u$(mobile)">
                         <a href="#" class="image fit"><img src="images/pic02.jpg" alt=""></a>
